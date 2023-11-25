@@ -5,11 +5,11 @@
 To add this bucket to scoop, run the following command in PowerShell:
 
 ```
-scoop bucket add lemon https://github.com/hoilc/scoop-lemon
+scoop bucket add sp https://github.com/baiyuking/sp
 ```
 
 then
 
 ```
-scoop install lemon/<app_name>
+scoop install sp/<app_name>
 ```
