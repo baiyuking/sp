@@ -4,6 +4,7 @@
     "homepage": "https://www.bcuninstaller.com/",
     "license": "Apache-2.0",
     "url": "https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.7/BCUninstaller_5.7_net6.0-windows10.0.18362.0.zip",
+    "extract_dir": "net6.0-windows10.0.18362.0",
     "hash": "00cf37d9b11c351c2bff4764aae2e89ed1d1fab121732ed2b2a195b0698974b1",
     "architecture": {
       "64bit": {
