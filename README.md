@@ -1,4 +1,4 @@
-# sp:my scoop bucket
+# A scoop bucket
 
 ## Usage
 
