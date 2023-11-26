@@ -1,7 +1,5 @@
 # A scoop bucket
 
-## Usage
-
 To add this bucket to scoop, run the following command in PowerShell:
 
 ```
